@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ruddhobodh/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Ruddhobodh](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Ruddhobodh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> বুকের ভেতর রুদ্ধবোধে তুমি স্বাধীন হাওয়া
+> এই জীবনে তুমি আমার সবটুকু চাওয়া
+> অচিন এক নেশায় আমার কাঁপে এই শরীর
+> তোমার ছোঁয়ায় ভাঙে আমার শূন্যতার প্রাচীর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
