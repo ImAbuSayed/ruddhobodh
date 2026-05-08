@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ruddhobodh
+
+This log tracks the cryptographic history and versioning for the song **Ruddhobodh** (ruddhobodh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:38:45.747522 | `v1` | `2a1328cc5086e9959575c597226ada594a6b4e9e9a63134ff8e8816f7aba23bc` | `261309ab9bc3e50af012f6934b96ea29b20e48ca8d46b8adefaf7d321f0e31d7` | `2026-05-08_ruddhobodh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
